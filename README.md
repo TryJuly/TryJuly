@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-Étudiant école 42.
+Étudiant à l'école 42.
 
-Projet en cours
-
-Vigie : un honeypot façon mini-SOC, qui capte les requêtes exactes, les identifiants tentés par brute-force et l'origine géographique des attaques, puis centralise les logs. Projet en cours de développement.
-
-#Projets
+# Projets
 
 Projet	Description	Stack
+
+———————————————————————————————————————————————
 CatCHMeal	Application de suivi nutritionnel en équipe, en ligne sur catchmeal.ch. Responsable du module data et analytics et de son dashboard.	NestJS, PostgreSQL, Prisma, React, TypeScript, Docker
 WebServ	Serveur HTTP écrit de zéro : I/O non bloquantes avec poll(), virtual hosts, CGI, upload multipart, cookies et sessions.	C++
 Inception	Infrastructure multi-services conteneurisée.	Docker, Nginx
