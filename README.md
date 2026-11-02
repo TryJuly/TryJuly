@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 Étudiant à 42 Lausanne, orienté systèmes et cybersécurité.
-Je cherche un stage de 6 mois dès janvier 2027.
 
 ## Projets
 
