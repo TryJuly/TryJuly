@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Étudiant à 42 Lausanne, orienté systèmes et cybersécurité.
+Étudiant à l'école 42, orienté systèmes et cybersécurité.
 
 ## Projets
 
